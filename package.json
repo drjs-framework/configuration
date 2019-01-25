@@ -1,0 +1,38 @@
+{
+  "name": "@drjs/configuration",
+  "version": "0.0.2",
+  "description": "Configuration module for dr framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadormf/dr-configuration.git"
+  },
+  "author": "Amador Mateo Fernandez",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^23.3.13",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/amadormf/dr-configuration/issues"
+  },
+  "homepage": "https://github.com/amadormf/dr-configuration#readme",
+  "directories": {
+    "dist": "dist"
+  },
+  "keywords": [
+    "configuration",
+    "drjs"
+  ],
+  "files": [
+    "lib"
+  ],
+  "private": false
+}
