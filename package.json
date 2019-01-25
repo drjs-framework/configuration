@@ -1,6 +1,6 @@
 {
   "name": "@drjs/configuration",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "description": "Configuration module for dr framework",
   "main": "dist/index.js",
   "scripts": {
